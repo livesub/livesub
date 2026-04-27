@@ -1,5 +1,5 @@
 # 홍길동의 자기소개<font color="red">(테스트 등록중입니다!!!)</font>
-<!--
+
 경기도 고양시 · 일산직업능력개발원 · 2025.04.27 작성
 
 ---
@@ -122,6 +122,6 @@ print(f"현재 기온: {data['main']['temp']}°C")
 | 🐙 GitHub | [github.com/jisoo-dev](https://github.com/jisoo-dev) | 상시 확인 |
 | 🔥 블로그 | [velog.io/@jisoo](https://velog.io/@jisoo) | 주 2회 업데이트 |
 | 💼 LinkedIn | [linkedin.com/in/jisoo](https://linkedin.com/in/jisoo) | 48시간 이내 |
--->
+
 
 > 같이 성장하는 개발자가 되고 싶어요. 언제든 환영해요!
